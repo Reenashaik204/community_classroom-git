@@ -1,0 +1,5 @@
+# Ignore system files and directories
+*
+!.gitignore
+!restart/
+!restart/**   # Include restart directory and its contents
